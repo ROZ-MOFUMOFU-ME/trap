@@ -1,0 +1,53 @@
+{
+  "site": {
+    "name": "TRAP",
+    "description": "男の娘トークン (TRAP) プロジェクトサイト。",
+    "host": "trap.mofumofu.me"
+  },
+  "posts": [
+    {
+      "id": 1,
+      "title": "男の娘トークン (TRAP) が誕生しました！",
+      "slug": "hello-world",
+      "date": "2018-08-22T12:56:53+09:00",
+      "dateDisplay": "2018-08-22",
+      "excerpt": "男の娘のためのVIPSTARCOINトークン、「男の娘トークン (TRAP) 」が誕生しました！ DiscordやTwitterでエアドロップを開始しましたので、ぜひお立ち寄りください。",
+      "html": "<p class=\"wp-block-paragraph\">男の娘のためのVIPSTARCOINトークン、「男の娘トークン (TRAP) 」が誕生しました！</p>\n\n\n\n<p class=\"wp-block-paragraph\">DiscordやTwitterでエアドロップを開始しましたので、ぜひお立ち寄りください。</p>",
+      "path": "/%e6%9c%aa%e5%88%86%e9%a1%9e/1/",
+      "categories": [
+        "未分類"
+      ],
+      "tags": [],
+      "featuredImage": "/wp-content/uploads/2019/02/TRAP-1.png"
+    }
+  ],
+  "pages": [
+    {
+      "id": 59,
+      "title": "Contact Form",
+      "slug": "contact",
+      "date": "2024-04-08T14:42:03+09:00",
+      "dateDisplay": "2024-04-08",
+      "excerpt": "[contact-form-7 id=”dadaeca” title=”コンタクトフォーム 1″]",
+      "html": "<div class=\"wp-block-contact-form-7-contact-form-selector\">[contact-form-7 id=&#8221;dadaeca&#8221; title=&#8221;コンタクトフォーム 1&#8243;]</div>",
+      "path": "/contact/",
+      "categories": [],
+      "tags": [],
+      "featuredImage": null
+    },
+    {
+      "id": 61,
+      "title": "Privacy Policy",
+      "slug": "privacy",
+      "date": "2024-04-08T14:47:25+09:00",
+      "dateDisplay": "2024-04-08",
+      "excerpt": "私たちについて このサイトはROZが運営しております。サイトアドレスは です。 お問い合わせについて 訪問者がこのサイトからお問い合わせフォームを通じてメールを送る場合、メールフォームに表示されているデータ、そしてスパム検出に役立てるため送…",
+      "html": "<h2 class=\"wp-block-heading\"><strong>私たちについて</strong></h2>\n\n\n\n<p class=\"wp-block-paragraph\">このサイトはROZが運営しております。サイトアドレスは  です。</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>お問い合わせについて</strong></h2>\n\n\n\n<p class=\"wp-block-paragraph\">訪問者がこのサイトからお問い合わせフォームを通じてメールを送る場合、メールフォームに表示されているデータ、そしてスパム検出に役立てるため送信データを収集します。収集するデータは以下のとおりです。</p>\n\n\n\n<p class=\"wp-block-paragraph\">・IP アドレス<br>・ユーザーエージェント<br>・リファラ<br>・サイトのURL<br>・お問い合わせフォームに入力したお名前、メールアドレス、お問い合わせ内容など</p>\n\n\n\n<p class=\"wp-block-paragraph\">これらの個人情報は、サイトを守るためCloudflareによる「Cloudflare Turnstile」スパムチェックならびに、お問い合わせに対する回答や必要な情報を電子メール等でご連絡する場合に利用させていただくものです。個人情報をご提供いただく際の目的以外では利用いたしません。</p>\n\n\n\n<p class=\"wp-block-paragraph\">Cloudflare Turnstileの使用には<a href=\"https://www.cloudflare.com/privacypolicy\" target=\"_blank\" rel=\"noreferrer noopener\">Cloudflareプライバシー ポリシー</a>および<a href=\"https://www.cloudflare.com/website-terms\" target=\"_blank\" rel=\"noreferrer noopener\">Cloudflare利用規約</a>が適用されます。Cloudflare Turnstile API はハードウェアとソフトウェアの情報（デバイスやアプリのデータなど）を収集し、それらのデータを分析のために Cloudflareへ送信することをご理解のうえ、ご了承ください。このサービスの使用に関連して収集された情報は、Cloudflare Turnstileの改善と一般的なセキュリティの目的で使用されます。</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Cookieおよびアクセス解析ツールについて</strong></h2>\n\n\n\n<p class=\"wp-block-paragraph\">このサイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を使用しアクセス解析を行っております。このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。このトラフィックデータは匿名で収集されており、個人を特定するものではありません。<br>この機能はCookieを無効にすることやブラウザのアドオンを用いる等により収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。</p>\n\n\n\n<p class=\"wp-block-paragraph\">Googleアナリティクスの規約に関しての詳細は<a rel=\"noreferrer noopener\" href=\"https://marketingplatform.google.com/about/analytics/terms/jp/\" target=\"_blank\">Googleアナリティクスサービス利用規約</a>のページや<a rel=\"noreferrer noopener\" href=\"https://policies.google.com/technologies/ads?hl=ja\" target=\"_blank\">Googleポリシーと規約</a>ページをご覧ください。</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>他サイトからの埋め込みコンテンツ</strong></h2>\n\n\n\n<p class=\"wp-block-paragraph\">このサイトの投稿には埋め込みコンテンツ (動画、画像、投稿など) が含まれる可能性があります。他サイトからの埋め込みコンテンツは、訪問者がそのサイトを訪れた場合とまったく同じように振る舞います。</p>\n\n\n\n<p class=\"wp-block-paragraph\">これらのサイトは、あなたのデータの収集、Cookie の使用、サードパーティによる追加トラッキングの埋め込み、埋め込みコンテンツとのやりとりの監視を行うことがあります。アカウントを使ってそのサイトにログイン中の場合、埋め込みコンテンツとのやりとりのトラッキングも含まれます。</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>データに対するあなたの権利</strong></h2>\n\n\n\n<p class=\"wp-block-paragraph\">私たちが保持するあなたについての個人データについて、個人データの消去リクエストを行うこともできます。これには、管理、法律、セキュリティ目的のために保持する義務があるデータは含まれません。</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>データを保存する期間</strong></h2>\n\n\n\n<p class=\"wp-block-paragraph\">お問い合わせフォームからお問い合わせをいただい場合、特にご希望がない場合は、その内容が無期限に保持されます。ただし、管理上任意のタイミングで弊社にてデータの削除を行うことがあります。</p>",
+      "path": "/privacy/",
+      "categories": [],
+      "tags": [],
+      "featuredImage": null
+    }
+  ],
+  "works": []
+}

@@ -1,0 +1,8 @@
+allowBuilds:
+  esbuild: true
+  workerd: true
+# ネイティブバイナリを配布するパッケージのみ postinstall を許可する。
+# （pnpm 10 以降は既定でビルドスクリプトをブロックするため）
+onlyBuiltDependencies:
+  - esbuild
+  - workerd
